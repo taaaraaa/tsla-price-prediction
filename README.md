@@ -33,6 +33,12 @@ Here I have included some of the EDA.
 
 ### Step 3: Modeling
 
+- TSLA Price Prediction 
+- Elon’s Musk tweet’s affect prediction
+
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/e3651838-5c18-4ef9-b19c-2723c9f599c0)
+
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/7a170362-d762-426b-a695-6f9431db416b)
 
 ## Future work possibility
 - Adding computer vision models to include the images/videos for tweets interpretation!
