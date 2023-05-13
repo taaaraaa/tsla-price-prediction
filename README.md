@@ -40,6 +40,9 @@ Here I have included some of the EDA.
 
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/7a170362-d762-426b-a695-6f9431db416b)
 
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/73b1e9b9-06f7-44b1-aed7-ca0c63b37f16)
+
+
 ## Future work possibility
 - Adding computer vision models to include the images/videos for tweets interpretation!
 - Including the tweets posted in languages other than English
