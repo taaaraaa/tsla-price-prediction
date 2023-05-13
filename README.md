@@ -8,7 +8,7 @@
 
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/fb03336b-8867-4198-851e-dbf383b8124f)
 
-### 1. Collecting Data
+### Step 1: Collecting Data
 For this project, two dataset were required: 
 - Tesla Stock Price over time
 - Elon Musk Tweets
@@ -16,7 +16,7 @@ For this project, two dataset were required:
 For stock price, I used yahoo finance to collect data by python
 For Elon Musk Tweets, I downloaded a dataset from Kaggle as it is no longer free to use Tweeter API
 
-### 2. Exploratory data analysis
+### Step 2: Exploratory data analysis
 Here I have included some of the EDA. 
 
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/cd19d9a6-ac02-48f7-a039-d5c48dd32433)
@@ -30,6 +30,8 @@ Here I have included some of the EDA.
 
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/b2269544-3e6b-4989-b6c4-ba5c8de5708d)
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/d18eaea8-8e35-41b7-b8b4-98f9c678cb67)
+
+### Step 3: Modeling
 
 
 ## Future work possibility
