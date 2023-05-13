@@ -1,5 +1,5 @@
 # Does Elon Musk tweets affect Tesla Stock Price? What is tesla stock price with and without his tweets?
-##Steps:
+## Steps:
 1. Collecting data
 2. EDA
 3. Time Series (TSLA); Output: Residuals
