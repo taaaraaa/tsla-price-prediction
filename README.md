@@ -21,6 +21,9 @@ Here I have included some of the EDA.
 
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/cd19d9a6-ac02-48f7-a039-d5c48dd32433)
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/f3a78e5b-b22b-4b12-9513-da6bae6bad53)
+
+#### EDA on Tweets
+
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/a46a0b7d-c98a-426a-99a5-588f5730b80b)
 
 ####  EDA on combining sample Tweets and Tesla Stock Price
