@@ -13,8 +13,9 @@ For this project, two dataset were required:
 - Tesla Stock Price over time
 - Elon Musk Tweets
 
-For stock price, I used yahoo finance to collect data by python
-For Elon Musk Tweets, I downloaded a dataset from Kaggle as it is no longer free to use Tweeter API
+For stock price, I used yahoo finance to collect data by python.
+
+For Elon Musk Tweets, I downloaded a dataset from Kaggle as it is no longer free to use Tweeter API.
 
 ### Step 2: Exploratory data analysis
 Here I have included some of the EDA. 
@@ -25,6 +26,10 @@ Here I have included some of the EDA.
 #### EDA on Tweets
 
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/a46a0b7d-c98a-426a-99a5-588f5730b80b)
+
+#### Tweets Filtering Process
+
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/b2dd10b0-394f-4e81-a7f7-fffd52ded9d0)
 
 ####  EDA on combining sample Tweets and Tesla Stock Price
 
@@ -42,6 +47,20 @@ Here I have included some of the EDA.
 
 ![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/73b1e9b9-06f7-44b1-aed7-ca0c63b37f16)
 
+#### Residual sign as NLP Modeling Target
+
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/ef7b1e72-0ef9-4e4b-a9f6-0395cb8ebc39)
+
+## Step 4: NLP Classification Models to predict tweets affect on residuals
+
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/1ab77934-b5b4-4e52-999a-fb65c3911dc9)
+
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/7ffa00e9-8d06-4a41-9f27-5a47c501542a)
+## Step 5: Boosting TSLA Prediction!
+#### Combining the results in one table
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/e31a49bf-5ac8-4074-9f8c-548aa5db0973)
+#### Compare boosted model with initial time series winner!
+![image](https://github.com/taaaraaa/tsla-price-prediction/assets/26361973/7f57df53-bc0f-4d05-9015-0d1edd7116eb)
 
 ## Future work possibility
 - Adding computer vision models to include the images/videos for tweets interpretation!
